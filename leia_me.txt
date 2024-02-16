@@ -1,0 +1,11 @@
+tbs = temperatura de bulbo seco em C;
+tbu = temperatura de bulbo úmido em C;
+tgn = temperatura de globo negro seco em C;
+htu = umidade do sensor htu21d em %;
+psi = umidade do psicrômetro em %;
+hpa = pressão atmosférica em hPa;
+itu1 = índice de temperatura e umidade com base na umidade do psicrômetro;
+itu2 = índice de temperatura e umidade com base na umidade do sensor htu21d;
+or1 = temperatura do ponto de orvalho com base na umidade do psicrômetro em C;
+or2 = temperatura do ponto de orvalho com base na umidade do sensor htu21d em C;
+v_m/s = velocidade do vento em metros por segundo;
